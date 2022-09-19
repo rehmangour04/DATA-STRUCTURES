@@ -1,4 +1,4 @@
-package dsa;
+package linkedList;
 
 
 public class PrintIthNode {
